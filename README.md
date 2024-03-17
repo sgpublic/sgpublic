@@ -8,8 +8,6 @@ Currently practicing in retreat, welcome to join my community:
 + QQ guild: [漫展破产兄贵](https://pd.qq.com/s/yynbipji)
 + Telegram: [机油俱乐部](https://t.me/+w9j8AxsZkVY5MTZl)
 
-Want to contact me? Mail: sgpublic2002@gmail.com
-
 I have/am using the following technologies/languages (in order of proficiency):
 
 + Android/Kotlin
