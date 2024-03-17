@@ -14,6 +14,7 @@ I have/am using the following technologies/languages (in order of proficiency):
 + Kotlin Multiplatform/Compose Multiplatform
 + SpringBoot/Java
 + NoneBot/Python
++ GoLang
 + React/TypeScript
 + JavaFX
 + C#
