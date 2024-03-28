@@ -19,4 +19,13 @@ I have/am using the following technologies/languages (in order of proficiency):
 + JavaFX
 + C#
 
-![](https://github-readme-stats.vercel.app/api?username=sgpublic)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sgpublic&show_icons=true&count_private=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sgpublic&show_icons=true&count_private=true">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=sgpublic&show_icons=true&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sgpublic&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sgpublic">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgpublic">
+</picture>
