@@ -27,6 +27,8 @@ You can also join my channel and ask me for updates directly:
 + QQ group: [玩机俱乐部](https://qm.qq.com/q/BVOI62wwdW)
 + QQ guild: [漫展破产兄贵](https://pd.qq.com/s/yynbipji)
 
+If my repository is helpful to you, you can buy me a cup of coffee at [爱发电](https://afdian.com/a/sgpublic) to give me more motivation to move forward!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sgpublic&show_icons=true&count_private=true&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sgpublic&show_icons=true&count_private=true">
