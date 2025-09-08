@@ -14,11 +14,9 @@ I have/am using the following technologies/languages (in order of proficiency):
 + Android/Kotlin
 + Kotlin Multiplatform/Compose Multiplatform
 + SpringBoot/Java
++ React/TypeScript
 + NoneBot/Python
 + GoLang
-+ React/TypeScript
-+ JavaFX
-+ C#
 
 Since I have created so many repositories, not all of them can be actively maintained. Generally, I only actively maintain the repositories I am using, but as long as the repository is not archived, it means that I am willing to continue to maintain it. You can submit a bug or feature request in the issue, or simply click a star to let me know that someone wants the repository to continue to be updated.
 
